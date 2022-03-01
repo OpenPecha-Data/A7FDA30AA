@@ -1,0 +1,23 @@
+segment_sources:
+  P4118BA5B:
+    type: origin_type
+    relation: translation
+    language: sa
+  PFF692740:
+    type: origin_type
+    relation: translation
+    language: zh
+  PDE1F2EC1:
+    type: origin_type
+    relation: translation
+    language: zh
+  P6EB98D99:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  8433195834b94d27855c69ecea56c345:
+    P4118BA5B: 7a345f6e07764210b6f4735d4570900b
+    PFF692740: 1f4475cc48bd4901ab3b451b6fc6bea4
+    PDE1F2EC1: 3aafe56c56d04c3c896dcdb0207392b3
+    P6EB98D99: f760c868a5544e06a0d41af07dd85929
